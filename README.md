@@ -1,4 +1,4 @@
-+this HTML project contains 5 HTML pages with theme on "NATURE CONSERVATION".
++this HTML-CSS,bootstrap project contains 5 HTML pages with theme on "NATURE CONSERVATION".
 
 page 1: index.html
 - It is designed to be homepage.
