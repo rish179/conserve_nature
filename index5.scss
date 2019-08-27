@@ -1,0 +1,44 @@
+%measures {
+   font-family: fantasy;
+   font-size: 30px;
+   font-weight: bold;
+   color:purple;
+   padding: 20px;
+   margin: 20px;
+}
+$color:red;
+ h1{ color: yellowgreen;
+        text-align:center;
+        font-size: 2cm;
+    }
+div{
+      p{    color:$color;
+            font-style: italic;
+            font-size: 20px;
+            font-family: cursive;
+        }
+
+     ul{
+         @extend %measures;
+         color:$color;
+        }
+    }
+p{
+    color:greenyellow;
+}
+.solar{
+   @extend %measures;
+    background-color: yellow;
+}
+.wind{
+    @extend %measures;
+    background-color: silver;
+}
+.hydro{
+    @extend %measures;
+    background-color: blue;
+}
+.bio{
+    @extend %measures;
+    background-color: brown;
+}

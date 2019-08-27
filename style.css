@@ -1,0 +1,28 @@
+h1{ color: yellowgreen;
+    text-align:center;
+    font-size: 2cm;
+    text-align:center;
+    font-style: italic;
+  }
+ul{ color:brown;
+   font-family:  'Arial Narrow Bold', sans-serif;
+   font-size: 35px;
+   font-family: cursive;
+   }
+.reason{
+    background-color:silver;
+    color: orangered;
+    font-family: fantasy;
+}
+.threat{
+background-color: crimson;
+color: cadetblue;
+}
+a:hover{
+color:violet
+}
+p{ color:brown;
+    font-style: italic;
+    font-size: 20px;
+    font-family: cursive;
+    }
